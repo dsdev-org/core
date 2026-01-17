@@ -1,5 +1,5 @@
 {
-  "name": "@dsdev/core",
+  "name": "@deepsickdev/core",
   "version": "1.0.0",
   "description": "Core utilities and shared setup",
   "type": "module",
