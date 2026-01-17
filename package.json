@@ -1,0 +1,20 @@
+{
+  "name": "@dsdev/core",
+  "version": "1.0.0",
+  "description": "Core utilities and shared setup",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "ISC",
+  "author": {
+    "name": "Yaroslav",
+    "email": "yaroslavohotskiy@gmail.com"
+  },
+  "peerDependencies": {
+    "@biomejs/biome": "^2.3.11"
+  },
+  "exports": {
+    "./biome": "./src/biome.json"
+  }
+}
