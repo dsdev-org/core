@@ -18,7 +18,7 @@
     "release:major": "npm version major -m \"chore(release): v%s\""
   },
   "peerDependencies": {
-    "@biomejs/biome": "^2.3.11"
+    "@biomejs/biome": "^2.3.12"
   },
   "files": [
     "src/biome.json",

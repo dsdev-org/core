@@ -49,7 +49,7 @@ Create or update `biome.json` in the root of your project:
 
 ```json
 {
-  "$schema": "https://biomejs.dev/schemas/1.9.0/schema.json",
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
   "extends": ["@deepsickdev/core/biome"]
 }
 ```
